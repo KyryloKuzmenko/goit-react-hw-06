@@ -1,0 +1,17 @@
+.form {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.label {
+    text-align: left;
+    color: #000;
+}
+
+.inp {
+    border: 1px solid #000;
+    border-radius: 5px;
+    height: 25px;
+}

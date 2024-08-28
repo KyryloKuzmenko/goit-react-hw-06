@@ -1,0 +1,34 @@
+.container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn{
+    padding: 0;
+    height: 30px;
+    width: 70px;
+}
+
+.wrap {
+
+    text-align: left;
+}
+
+.name,
+.number {
+    color: rgb(0, 0, 0);
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+}
+
+
+.name svg,
+.number svg {
+  margin-right: 8px;  
+
+}
+
+
